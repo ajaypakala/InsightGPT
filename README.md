@@ -200,6 +200,16 @@ Chat with Dataset
 
 Ajaybabu Pakala
 
-B.Tech – Electronics and Communication Engineering
+GitHub
 
-Python | Data Analysis | Generative AI | Streamlit
+https://github.com/ajaypakala
+
+LinkedIn
+
+www.linkedin.com/in/pakala-ajaybabu
+
+---
+
+# App Link
+
+https://insightgpt-ajaypakala.streamlit.app/

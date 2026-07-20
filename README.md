@@ -1,4 +1,4 @@
-# 📊 AI CSV Analyzer
+# 📊 Northstar AI-Powered Business Analytics Platform
 
 An AI-powered Data Analysis application built using **Python**, **Streamlit**, **Pandas**, **Plotly**, and **Google Gemini AI**.
 
@@ -92,7 +92,7 @@ git clone <repository-url>
 Move into the project
 
 ```bash
-cd AI_CSV_Analyzer
+cd Northstar 
 ```
 
 Create a virtual environment
